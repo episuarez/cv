@@ -1,0 +1,46 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Epifanio",
+      "surnames": "Suárez Martínez",
+      "title": "",
+      "description": "Me encanta los retos, resolver problemas complejos, casi todo en la informática, y me gusta ayudar o formar a otras personas.",
+      "avatar": {
+        "alt": "Avatar_512.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/43d2c144-f5a6-4577-aefb-4ed611951694_avatar_512.png"
+      },
+      "location": {
+        "notes": ""
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://es.linkedin.com/in/episuarez"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/episuarez"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/episuarez"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://es.linkedin.com/in/episuarez"
+        }
+      ]
+    }
+  }
+}
