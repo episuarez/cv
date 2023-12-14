@@ -11,8 +11,8 @@
       "title": "Lead Unity Developer",
       "description": "Con una sólida trayectoria en el ámbito tecnológico desde mis primeros pasos con un Amstrad, he adquirido experiencia en una amplia gama de proyectos y roles diversos. Mi experiencia incluye la participación en proyectos de modelado 3D y posproducción, gestión de equipos y desempeño como profesor, además de haber trabajado como desarrollador en múltiples stacks tecnológicos.\n\nMi pasión por la informática y mi inclinación por los desafíos me impulsan a enfrentar proyectos ambiciosos y a contribuir con mi conocimiento y perspectiva en el desarrollo y arquitectura de software. Estoy comprometido con la colaboración en equipo y en la creación de soluciones innovadoras y efectivas.\n\nAdemás, cuento con una destacada experiencia docente, habiendo impartido clases a más de 500 personas y liderado proyectos educativos orientados a la formación y mejora de habilidades en el sector tecnológico. Mi enfoque en este ámbito se centra en facilitar el aprendizaje y evitar que otros enfrenten las dificultades que yo he superado en mi trayectoria profesional.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/7317d850-5f71-460b-89f6-a6a46d166034_linkedin-photo-269.linkedin-photo-269",
-        "alt": "23/12/14/7317d850-5f71-460b-89f6-a6a46d166034_linkedin-photo-269.linkedin-photo-269"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/9b3d27b6-a494-410f-ba12-f8ff2eb2c40a_linkedin-photo-269.linkedin-photo-269",
+        "alt": "23/12/14/9b3d27b6-a494-410f-ba12-f8ff2eb2c40a_linkedin-photo-269.linkedin-photo-269"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
@@ -42,8 +42,8 @@
         "organization": {
           "name": "Sincrolab",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/3adfcb6f-5827-4ae5-a05e-0974cfede7a7_linkedin-photo-269.linkedin-photo-269",
-            "alt": "23/12/14/3adfcb6f-5827-4ae5-a05e-0974cfede7a7_linkedin-photo-269.linkedin-photo-269"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/227f4d27-3346-4e3b-9e64-d39d15933573_linkedin-photo-269.linkedin-photo-269",
+            "alt": "23/12/14/227f4d27-3346-4e3b-9e64-d39d15933573_linkedin-photo-269.linkedin-photo-269"
           }
         },
         "roles": [
@@ -96,8 +96,8 @@
         "organization": {
           "name": "Gesein S.L.",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/b6b0e0d2-7bb4-471a-99a5-80a49e1a0e59_linkedin-photo-269.linkedin-photo-269",
-            "alt": "23/12/14/b6b0e0d2-7bb4-471a-99a5-80a49e1a0e59_linkedin-photo-269.linkedin-photo-269"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/cf1a043b-e9b8-42d7-84ba-234d40b1f707_linkedin-photo-269.linkedin-photo-269",
+            "alt": "23/12/14/cf1a043b-e9b8-42d7-84ba-234d40b1f707_linkedin-photo-269.linkedin-photo-269"
           }
         },
         "roles": [
@@ -117,8 +117,8 @@
         "organization": {
           "name": "Gfi España",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/1fe63423-f64a-4685-bb87-c02ca064f78b_linkedin-photo-269.linkedin-photo-269",
-            "alt": "23/12/14/1fe63423-f64a-4685-bb87-c02ca064f78b_linkedin-photo-269.linkedin-photo-269"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/d2e7c231-9d97-413c-a175-7eacb4179b0a_linkedin-photo-269.linkedin-photo-269",
+            "alt": "23/12/14/d2e7c231-9d97-413c-a175-7eacb4179b0a_linkedin-photo-269.linkedin-photo-269"
           }
         },
         "roles": [
@@ -249,13 +249,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "AWS",
+          "name": "Adobe Photoshop",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "C",
+          "name": "C#",
           "type": "technology"
         }
       },
@@ -273,6 +273,30 @@
       },
       {
         "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JAVA",
           "type": "technology"
         }
@@ -285,7 +309,91 @@
       },
       {
         "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Maya",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Active Directory",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Notion",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLite",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Samba",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TensorFlow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Unity3D",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Windows",
           "type": "technology"
         }
       }
@@ -325,6 +433,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "C#",
+        "type": "technology"
+      },
+      {
+        "name": "C++",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Unity3D",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "No tengo como algo como un puesto de ensueño, estoy comodo en varios puestos, y me gusta enfrentarte a cosas nuevas.\n\nNextail_Nov21_MachineLearningOPS"
   }
 }
