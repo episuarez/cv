@@ -11,8 +11,8 @@
       "title": "Lead Unity Developer",
       "description": "Con una sólida trayectoria en el ámbito tecnológico desde mis primeros pasos con un Amstrad, he adquirido experiencia en una amplia gama de proyectos y roles diversos. Mi experiencia incluye la participación en proyectos de modelado 3D y posproducción, gestión de equipos y desempeño como profesor, además de haber trabajado como desarrollador en múltiples stacks tecnológicos.\n\nMi pasión por la informática y mi inclinación por los desafíos me impulsan a enfrentar proyectos ambiciosos y a contribuir con mi conocimiento y perspectiva en el desarrollo y arquitectura de software. Estoy comprometido con la colaboración en equipo y en la creación de soluciones innovadoras y efectivas.\n\nAdemás, cuento con una destacada experiencia docente, habiendo impartido clases a más de 500 personas y liderado proyectos educativos orientados a la formación y mejora de habilidades en el sector tecnológico. Mi enfoque en este ámbito se centra en facilitar el aprendizaje y evitar que otros enfrenten las dificultades que yo he superado en mi trayectoria profesional.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/901b6b12-f0bd-4907-bf3d-382794d04769_linkedin-photo-269.linkedin-photo-269",
-        "alt": "23/12/14/901b6b12-f0bd-4907-bf3d-382794d04769_linkedin-photo-269.linkedin-photo-269"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/7317d850-5f71-460b-89f6-a6a46d166034_linkedin-photo-269.linkedin-photo-269",
+        "alt": "23/12/14/7317d850-5f71-460b-89f6-a6a46d166034_linkedin-photo-269.linkedin-photo-269"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
@@ -33,6 +33,208 @@
       {
         "type": "twitter",
         "URL": "https://twitter.com/episuarez"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Sincrolab",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/3adfcb6f-5827-4ae5-a05e-0974cfede7a7_linkedin-photo-269.linkedin-photo-269",
+            "alt": "23/12/14/3adfcb6f-5827-4ae5-a05e-0974cfede7a7_linkedin-photo-269.linkedin-photo-269"
+          }
+        },
+        "roles": [
+          {
+            "name": "Lead Unity Developer",
+            "startDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "Skills: Liderazgo · Desarrollo de videojuegos · Unity"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "AEPI"
+        },
+        "roles": [
+          {
+            "name": "Profesor en Tecnologías y Ciencias de la Computación",
+            "startDate": "2018-03-01",
+            "finishDate": "2021-12-31",
+            "challenges": [
+              {
+                "description": "* Impartición de cursos en una amplia variedad de áreas, incluyendo C/C++, Java, Python, Unity, C#, Inteligencia Artificial y Ciencia de Datos.\n* Brindar soporte y asistencia a los alumnos en la comprensión y aplicación de conceptos técnicos y teóricos.\n* Orientación a los alumnos en su desarrollo académico y profesional, fomentando el aprendizaje y la adquisición de habilidades relevantes en el campo de la tecnología."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Owari Studios"
+        },
+        "roles": [
+          {
+            "name": "Director",
+            "startDate": "2015-12-01",
+            "finishDate": "2022-09-30",
+            "challenges": [
+              {
+                "description": "* Liderazgo en la creación de dos videojuegos, Grave Robber y Scarab, promocionándolos en eventos y ferias por toda España, así como en charlas y documentales.\n* Desarrollo de Serious Games personalizados para empresas de formación, abarcando desde simuladores de almacén hasta procedimientos de reanimación en casos de accidentes.\n* Colaboración con empresas en el desarrollo, mejora y optimización de sus sitios web y presencia en línea, potenciando su imagen digital y alcance.\n* Implementación de API para diversas plataformas de pago, facilitando transacciones seguras y eficientes.\n* Creación de una herramienta innovadora para los cocineros del estadio Wanda Metropolitano, permitiendo mostrar sus productos en múltiples visualizaciones y pantallas.\n* Participación y colaboración en proyectos de videojuegos, educativos y deportivos, aportando experiencia y conocimientos técnicos.\n* Gestión exitosa de proyectos propios, con diversos grados de éxito, así como de equipos multidisciplinarios y distribuidos en diferentes zonas horarias.\n* Contribución en proyectos de visualización y simulaciones para el combate al coronavirus, aportando soluciones tecnológicas y análisis de datos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Gesein S.L.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/b6b0e0d2-7bb4-471a-99a5-80a49e1a0e59_linkedin-photo-269.linkedin-photo-269",
+            "alt": "23/12/14/b6b0e0d2-7bb4-471a-99a5-80a49e1a0e59_linkedin-photo-269.linkedin-photo-269"
+          }
+        },
+        "roles": [
+          {
+            "name": "Administrador de Sistemas & Programador Senior",
+            "startDate": "2014-01-01",
+            "finishDate": "2014-12-31",
+            "challenges": [
+              {
+                "description": "* Experiencia en el Ministerio de Hacienda y Administraciones Públicas.\n* Liderazgo en la migración exitosa del Centro de Procesamiento de Datos (CPD) entre localizaciones, sin afectar la continuidad del servicio.\n* Gestión efectiva de un equipo de 3 profesionales, promoviendo el trabajo en equipo y el desarrollo de habilidades.\n* Preparación y elaboración de documentación técnica para el proyecto de migración de sistemas Windows, asegurando la precisión y calidad de la información.\n* Culminación exitosa del proyecto de migración y supervisión del lanzamiento, garantizando la estabilidad y funcionalidad del sistema.\n* Desarrollo de herramientas innovadoras para optimizar los tiempos de carga en más de 10,000 equipos, resultando en mejoras significativas en la eficiencia de las administraciones públicas.\n* Colaboración y apoyo técnico a otros departamentos mediante la provisión de herramientas y soluciones personalizadas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Gfi España",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/1fe63423-f64a-4685-bb87-c02ca064f78b_linkedin-photo-269.linkedin-photo-269",
+            "alt": "23/12/14/1fe63423-f64a-4685-bb87-c02ca064f78b_linkedin-photo-269.linkedin-photo-269"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Senior & Administrador de sistemas",
+            "startDate": "2011-08-01",
+            "finishDate": "2013-12-31",
+            "challenges": [
+              {
+                "description": "* Experiencia en el Ministerio de Política Territorial y Administración Pública, así como en el Ministerio de Hacienda y Administraciones Públicas.\n* Liderazgo exitoso en el proyecto de migración de más de 10,000 equipos de Windows XP a Windows 7, garantizando la compatibilidad con todas las aplicaciones de la administración pública.\n* Desarrollo de herramientas para el manejo de perfiles móviles, gestión de recursos, alta disponibilidad y mantenimiento de servidores Samba.\n* Creación e implementación de herramientas de prueba para optimizar los despliegues de software y sistemas.\n* Mantenimiento de más de 100 servidores con sistemas operativos Windows y Linux, asegurando su correcto funcionamiento y seguridad.\n* Coordinación eficaz de problemáticas con otras administraciones, como violencia de género y oficinas de extranjería.\n* Gestión y liderazgo de un equipo de 3 profesionales, fomentando la colaboración y el crecimiento profesional."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ALANTA HUMAN SERVICIES S.L."
+        },
+        "roles": [
+          {
+            "name": " Desarrollador Senior & Administrador de sistemas",
+            "startDate": "2009-02-01",
+            "finishDate": "2011-08-31",
+            "challenges": [
+              {
+                "description": "* Experiencia en el Ministerio de Administraciones Públicas, Ministerio de la Presidencia y Ministerio de Política Territorial y Administración Pública.\n* Logro significativo en la reducción de incidencias diarias, pasando de más de 100 a menos de 10, mejorando la eficiencia y estabilidad del sistema.\n* Desarrollo e implementación de herramientas de soporte para usuarios y resolución de conflictos entre aplicaciones, permitiendo la instalación y funcionamiento simultáneo en un mismo equipo.\n* Montaje, mantenimiento y gestión de inventario de equipos informáticos, garantizando su óptimo rendimiento y disponibilidad.\n* Formación a usuarios en el uso de herramientas y sistemas, fomentando la adopción y el correcto aprovechamiento de recursos tecnológicos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Hiroshima Factory"
+        },
+        "roles": [
+          {
+            "name": "Director",
+            "startDate": "2007-12-01",
+            "finishDate": "2008-09-30",
+            "challenges": [
+              {
+                "description": "* Liderazgo en la distribución nacional e internacional, importación y exportación de productos, y participación en ferias y eventos comerciales.\n* Logro excepcional en la generación de ganancias superiores a 100,000 € en un año, partiendo de un capital inicial de 3,000 €.\n* Incremento significativo en ventas, alcanzando un volumen superior a 54 m³ de productos en un año, impulsando el crecimiento y la rentabilidad del negocio."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ociojoven Network"
+        },
+        "roles": [
+          {
+            "name": "Líder en Gestión de Productos y Coordinación Empresarial",
+            "startDate": "2007-03-01",
+            "finishDate": "2007-07-31",
+            "challenges": [
+              {
+                "description": "* Administración integral de la cartera de productos de la empresa, optimizando su posicionamiento y rentabilidad.\n* Colaboración activa en la preparación para la adquisición por parte del Grupo Planeta, asegurando la alineación estratégica y operativa.\n* Implementación de mejoras en la entrega y comunicación de productos con las franquicias, fortaleciendo las relaciones y garantizando la satisfacción de los socios."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ociojoven Network"
+        },
+        "roles": [
+          {
+            "name": "Especialista en Compras y Optimización de Proveedores",
+            "startDate": "2006-10-01",
+            "finishDate": "2007-03-31",
+            "challenges": [
+              {
+                "description": "* Gestión integral de compras para una tienda en línea con más de 1 millón de productos, trabajando con proveedores tanto nacionales como internacionales.\n* Identificación y adquisición anticipada de productos con alta demanda, impulsando el aumento de ventas y garantizando la disponibilidad de inventario.\n* Negociación exitosa con proveedores para mejorar los precios y condiciones comerciales, resultando en una mayor rentabilidad y competitividad."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ociojoven Network"
+        },
+        "roles": [
+          {
+            "name": "Líder en Gestión de Almacenes y Control de Inventarios",
+            "startDate": "2006-05-01",
+            "finishDate": "2006-10-31",
+            "challenges": [
+              {
+                "description": "* Supervisión y dirección de un equipo de 5 profesionales en almacén, asegurando la eficiencia en las operaciones.\n* Administración precisa del control de inventario y seguimiento de existencias.\n* Implementación de mejoras en los procesos de entrada y salida de mercancías, reduciendo significativamente los tiempos y aumentando la productividad."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ociojoven Network"
+        },
+        "roles": [
+          {
+            "name": "Líder en Gestión de Logística y Coordinación de Equipo",
+            "startDate": "2005-11-01",
+            "finishDate": "2006-05-31",
+            "challenges": [
+              {
+                "description": "* Supervisión y liderazgo de un equipo especializado de 3 profesionales en logística.\n* Gestión eficiente de las operaciones de entrada y salida de mercancías, garantizando la precisión y puntualidad en la cadena de suministro.\n* Implementación de estrategias de optimización para mejorar el rendimiento del equipo y garantizar la satisfacción del cliente."
+              }
+            ]
+          }
+        ]
       }
     ]
   },
