@@ -1,22 +1,22 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
+    "language": "EN",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Epifanio",
       "surnames": "Suárez Martínez",
-      "title": "",
-      "description": "",
+      "title": "Title",
+      "description": "Me encanta los retos, resolver problemas complejos, casi todo en la informática, y me gusta ayudar o formar a otras personas.",
       "avatar": {
-        "alt": "Avatar_512.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/43d2c144-f5a6-4577-aefb-4ed611951694_avatar_512.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/43d2c144-f5a6-4577-aefb-4ed611951694_avatar_512.png",
+        "alt": "Avatar_512.png"
       },
       "location": {
-        "country": "España",
-        "notes": "Autocompleted using Google Maps API"
+        "notes": "Autocompleted using Google Maps API (id: ChIJi7xhMnjjQgwR7KNoB5Qs7KY)",
+        "country": "España"
       }
     },
     "relevantLinks": [
@@ -37,20 +37,15 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
+          "name": "AWS",
           "type": "technology"
         }
       },
@@ -68,19 +63,25 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JavaScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
+          "name": "Python",
           "type": "technology"
         }
       }
@@ -90,8 +91,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://es.linkedin.com/in/episuarez"
+          "URL": "https://es.linkedin.com/in/episuarez",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/episuarez",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/episuarez",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "episuarez@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "628285712",
+          "countryCode": "+34"
         }
       ]
     },
@@ -101,5 +119,8 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "No tengo como algo como un puesto de ensueño, estoy comodo en varios puestos, y me gusta enfrentarte a cosas nuevas.\n\nNextail_Nov21_MachineLearningOPS"
   }
 }
