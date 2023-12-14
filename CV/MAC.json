@@ -8,21 +8,23 @@
     "profile": {
       "name": "Epifanio",
       "surnames": "Suárez Martínez",
-      "title": "Title",
-      "description": "Me encanta los retos, resolver problemas complejos, casi todo en la informática, y me gusta ayudar o formar a otras personas.",
+      "title": "Lead Unity Developer",
+      "description": "Con una sólida trayectoria en el ámbito tecnológico desde mis primeros pasos con un Amstrad, he adquirido experiencia en una amplia gama de proyectos y roles diversos. Mi experiencia incluye la participación en proyectos de modelado 3D y posproducción, gestión de equipos y desempeño como profesor, además de haber trabajado como desarrollador en múltiples stacks tecnológicos.\n\nMi pasión por la informática y mi inclinación por los desafíos me impulsan a enfrentar proyectos ambiciosos y a contribuir con mi conocimiento y perspectiva en el desarrollo y arquitectura de software. Estoy comprometido con la colaboración en equipo y en la creación de soluciones innovadoras y efectivas.\n\nAdemás, cuento con una destacada experiencia docente, habiendo impartido clases a más de 500 personas y liderado proyectos educativos orientados a la formación y mejora de habilidades en el sector tecnológico. Mi enfoque en este ámbito se centra en facilitar el aprendizaje y evitar que otros enfrenten las dificultades que yo he superado en mi trayectoria profesional.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/43d2c144-f5a6-4577-aefb-4ed611951694_avatar_512.png",
-        "alt": "Avatar_512.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/1a4517fd-b6f3-46ac-af44-58a1bfcad143_linkedin-photo-269.linkedin-photo-269",
+        "alt": "23/12/14/1a4517fd-b6f3-46ac-af44-58a1bfcad143_linkedin-photo-269.linkedin-photo-269"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJi7xhMnjjQgwR7KNoB5Qs7KY)",
-        "country": "España"
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
       {
         "type": "linkedin",
-        "URL": "https://es.linkedin.com/in/episuarez"
+        "URL": "https://linkedin.com/in/episuarez"
       },
       {
         "type": "github",
@@ -96,7 +98,7 @@
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://es.linkedin.com/in/episuarez",
+          "URL": "https://linkedin.com/in/episuarez",
           "type": "linkedin"
         },
         {
