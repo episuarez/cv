@@ -297,7 +297,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -413,15 +413,6 @@
         {
           "URL": "https://twitter.com/episuarez",
           "type": "twitter"
-        }
-      ],
-      "contactMails": [
-        "episuarez@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "628285712",
-          "countryCode": "+34"
         }
       ]
     },
