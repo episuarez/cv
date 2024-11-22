@@ -9,7 +9,7 @@
       "name": "Epifanio",
       "surnames": "Suárez Martínez",
       "title": "Lead Unity Developer",
-      "description": "Con una sólida trayectoria en el ámbito tecnológico desde mis primeros pasos con un Amstrad, he adquirido experiencia en una amplia gama de proyectos y roles diversos. Mi experiencia incluye la participación en proyectos de modelado 3D y posproducción, gestión de equipos y desempeño como profesor, además de haber trabajado como desarrollador en múltiples stacks tecnológicos.\n\nMi pasión por la informática y mi inclinación por los desafíos me impulsan a enfrentar proyectos ambiciosos y a contribuir con mi conocimiento y perspectiva en el desarrollo y arquitectura de software. Estoy comprometido con la colaboración en equipo y en la creación de soluciones innovadoras y efectivas.\n\nAdemás, cuento con una destacada experiencia docente, habiendo impartido clases a más de 500 personas y liderado proyectos educativos orientados a la formación y mejora de habilidades en el sector tecnológico. Mi enfoque en este ámbito se centra en facilitar el aprendizaje y evitar que otros enfrenten las dificultades que yo he superado en mi trayectoria profesional.",
+      "description": "Desde que me inicié en el mundo de la tecnología con un Amstrad, he recorrido un camino diverso y emocionante. He participado en proyectos de modelado 3D, he dirigido equipos, he sido profesor y he trabajado como desarrollador en diferentes tecnologías.\n\nMi amor por la informática y mi pasión por los retos me impulsan a embarcarme en proyectos ambiciosos, aportando mi experiencia y perspectiva en el desarrollo de software. Me encanta colaborar en equipo y encontrar soluciones creativas y efectivas.\n\nAdemás, tengo una sólida experiencia como docente, habiendo enseñado a más de 500 personas y liderado proyectos educativos en el ámbito tecnológico. Me apasiona ayudar a otros a aprender y evitar los obstáculos que yo mismo he enfrentado en mi carrera.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/9b3d27b6-a494-410f-ba12-f8ff2eb2c40a_linkedin-photo-269.linkedin-photo-269",
         "alt": "23/12/14/9b3d27b6-a494-410f-ba12-f8ff2eb2c40a_linkedin-photo-269.linkedin-photo-269"
@@ -40,19 +40,33 @@
     "jobs": [
       {
         "organization": {
-          "name": "Sincrolab",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/227f4d27-3346-4e3b-9e64-d39d15933573_linkedin-photo-269.linkedin-photo-269",
-            "alt": "23/12/14/227f4d27-3346-4e3b-9e64-d39d15933573_linkedin-photo-269.linkedin-photo-269"
+          "name": "4 CATS PICTURES"
+        },
+        "roles": [
+          {
+            "name": "Python Developer",
+            "startDate": "2022-02-01",
+            "finishDate": "2022-02-28",
+            "challenges": [
+              {
+                "description": "Buffalo Kids\n• Development of automations in Maya.\n• Template creation in Maya."
+              }
+            ]
           }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sincrolab"
         },
         "roles": [
           {
             "name": "Lead Unity Developer",
             "startDate": "2022-02-01",
+            "finishDate": "2024-04-30",
             "challenges": [
               {
-                "description": "Skills: Liderazgo · Desarrollo de videojuegos · Unity"
+                "description": "• Maintenance of applications in Google play and App store.\n• Development of new features and applications.\n• Documentation and processes for ISOs.\n• Product and team leadership.\n• Technical support."
               }
             ]
           }
@@ -94,11 +108,7 @@
       },
       {
         "organization": {
-          "name": "Gesein S.L.",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/cf1a043b-e9b8-42d7-84ba-234d40b1f707_linkedin-photo-269.linkedin-photo-269",
-            "alt": "23/12/14/cf1a043b-e9b8-42d7-84ba-234d40b1f707_linkedin-photo-269.linkedin-photo-269"
-          }
+          "name": "Gesein S.L."
         },
         "roles": [
           {
@@ -115,11 +125,7 @@
       },
       {
         "organization": {
-          "name": "Gfi España",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/d2e7c231-9d97-413c-a175-7eacb4179b0a_linkedin-photo-269.linkedin-photo-269",
-            "alt": "23/12/14/d2e7c231-9d97-413c-a175-7eacb4179b0a_linkedin-photo-269.linkedin-photo-269"
-          }
+          "name": "Gfi España"
         },
         "roles": [
           {
@@ -267,6 +273,12 @@
       },
       {
         "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Docker",
           "type": "technology"
         }
@@ -339,6 +351,12 @@
       },
       {
         "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Notion",
           "type": "technology"
         }
@@ -352,6 +370,12 @@
       {
         "skill": {
           "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
           "type": "technology"
         }
       },
@@ -381,6 +405,18 @@
       },
       {
         "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "TensorFlow",
           "type": "technology"
         }
@@ -393,9 +429,27 @@
       },
       {
         "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Windows",
           "type": "technology"
         }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Máster en Creación de Videojuegos, Tecnología informática/Tecnología de sistemas informáticos",
+        "startDate": "2009-01-01",
+        "institution": {
+          "name": "Trazos"
+        },
+        "finishDate": "2010-01-01"
       }
     ]
   },
