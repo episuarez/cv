@@ -40,6 +40,48 @@
     "jobs": [
       {
         "organization": {
+          "name": "Flutic"
+        },
+        "roles": [
+          {
+            "name": "Senior Developer",
+            "startDate": "2025-04-01",
+            "challenges": [
+              {
+                "description": "Desarrollamos en Python, java, react, Next, entre otros. Tanto micro servicios dockerizados, como sistemas, APIs, etc, para la automatización de las redes de más móvil y Orange."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Fastapi",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "4 CATS PICTURES"
         },
         "roles": [
