@@ -359,6 +359,43 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "details": {
+          "name": "PONENCIA - Formador AEPI",
+          "description": "Impartición de cursos de programación (C++, Java, Python), desarrollo de videojuegos (Unity, C#), Data Science y Redes Neuronales. Fortalecimiento de conocimientos técnicos y habilidades de mentoría."
+        },
+        "type": "talk",
+        "publishingDate": "2021-06-01",
+        "tags": [
+          "Formación"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "Keras",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Scikit-learn",
+            "type": "technology"
+          },
+          {
+            "name": "TensorFlow",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
