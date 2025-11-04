@@ -567,6 +567,7 @@
         "type": "technology"
       }
     ],
-    "desiredJobDescription": "No tengo como algo como un puesto de ensueño, estoy comodo en varios puestos, y me gusta enfrentarte a cosas nuevas.\n\nNextail_Nov21_MachineLearningOPS"
+    "desiredJobDescription": "No tengo como algo como un puesto de ensueño, estoy comodo en varios puestos, y me gusta enfrentarte a cosas nuevas.\n\nNextail_Nov21_MachineLearningOPS",
+    "goodPractices": "Mi formación en buenas prácticas viene de la necesidad y la pasión por aprender. Gestionando Owari Studios con 15 serious games simultáneos, aplicar SOLID, TDD y Agile era supervivencia. En Sincrolab, con certificaciones ISO 13485 y CE para salud mental infantil, las buenas prácticas eran obligatorias: trazabilidad, documentación y testing exhaustivo.\n\nTrabajo habitualmente con CI/CD, pair programming, pull requests y code reviews. En Flutic implementamos pipelines en GitLab con Docker y microservicios. En Unity uso patrones como Singleton, Services, Scriptable Objects, máquinas de estados... adaptando al proyecto: no es lo mismo un prototipo que un juego complejo.\n\nHe leído sobre patrones de diseño, aunque últimamente me centro en game feel, GDD y diseño de sistemas de juego. Me mantengo actualizado leyendo, viendo vídeos técnicos, pero sobre todo haciendo porque no puedo estar quieto.\n\nMi filosofía, el código debe tender a ser entendible por alguien sin conocimientos previos. Priorizo claridad, escalabilidad y separación adecuada, pero siempre acorde al proyecto real. Como formador en AEPI aprendí que si no puedes explicar algo con sencillez, no lo has diseñado bien. El mejor código es el que tu yo del futuro puede mantener sin sufrir."
   }
 }
