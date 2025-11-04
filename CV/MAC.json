@@ -314,6 +314,51 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Director y desarrollador - 15 Serious Games + videojuegos propios",
+          "description": "Fundación y dirección de estudio indie. Desarrollo de 2 videojuegos propios (Grave Robber y Scarab) con campaña Kickstarter, y 15 serious games para sectores de salud, educación y logística. Incluye solución interactiva para Wanda Metropolitano."
+        },
+        "type": "launch",
+        "publishingDate": "2022-06-01",
+        "tags": [
+          "Videojuegos"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "C#",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "TensorFlow",
+            "type": "technology"
+          },
+          {
+            "name": "Unity3D",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
