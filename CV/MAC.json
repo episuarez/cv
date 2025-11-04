@@ -284,6 +284,37 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Lead Unity Developer - Aplicaciones médicas certificadas",
+          "description": "Lideré equipo de 4 desarrolladores en el desarrollo de 4 aplicaciones Unity con certificación ISO 13485 y CE para tratamiento de niños con TEA y TDAH. Modernización de software, optimización de procesos y reducción de tiempos de respuesta."
+        },
+        "type": "achievement",
+        "publishingDate": "2024-06-01",
+        "tags": [
+          "Liderazgo"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "C#",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Unity3D",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
