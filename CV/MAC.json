@@ -506,6 +506,12 @@
           "name": "Autonomía en el aprendizaje",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
       }
     ]
   },
