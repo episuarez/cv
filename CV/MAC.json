@@ -493,6 +493,14 @@
         },
         "finishDate": "2010-01-01"
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
